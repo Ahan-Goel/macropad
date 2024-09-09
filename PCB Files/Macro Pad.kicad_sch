@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "MacroPad")
+    (date "2024-01-07")
+    (rev "3.0")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x02_Socket" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 2.54 0)
